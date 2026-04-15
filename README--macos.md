@@ -35,7 +35,7 @@ Use this when prompted during login.
 Use the assigned host or configured alias:
 
 ```bash
-ssh <assigned-host>
+ssh root@172.105.162.155
 ```
 
 Example:
