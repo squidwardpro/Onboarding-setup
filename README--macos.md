@@ -38,11 +38,7 @@ Use the assigned host or configured alias:
 ssh root@172.105.162.155
 ```
 
-Example:
 
-```bash
-ssh company-vps
-```
 
 On first connection:
 
